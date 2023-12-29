@@ -1,0 +1,287 @@
+body{
+    background-color: black;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    background-color: black;
+}
+.reyna {
+    background-color: red;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.raze {
+    background-color: blue;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.omen {
+    background-color: green;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.sova {
+    background-color: yellow;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.chamber {
+    background-color: purple;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.brimstone {
+    background-color: orange;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.neon {
+    background-color: red;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.iso {
+    background-color: blue;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.kayo {
+    background-color: green;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.astra {
+    background-color: yellow;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.killjoy {
+    background-color: purple;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.cypher {
+    background-color: orange;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.breach {
+    background-color: red;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.harbor {
+    background-color: blue;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.viper {
+    background-color: green;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+/* Styles for .sova */
+.sage {
+    background-color: yellow;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.yoru {
+    background-color: purple;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.skye {
+    background-color: orange;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.gekko {
+    background-color: red;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.phoenix {
+    background-color: blue;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.deadlock {
+    background-color: green;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.jett {
+    background-color: yellow;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.fade {
+    background-color: purple;
+    height: 110px;
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+}
