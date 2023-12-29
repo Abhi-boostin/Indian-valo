@@ -69,3 +69,33 @@ iso.addEventListener('click', function(){
     const isoSound = new Audio('voicelines/iso.mp3');
     isoSound.play();
 });
+
+const yoru = document.querySelector('.yoru');
+yoru.addEventListener('click', function(){
+    const yoruSound = new Audio('voicelines/yoru.mp3');
+    yoruSound.play();
+});
+
+const killjoy = document.querySelector('.killjoy');
+killjoy.addEventListener('click', function(){
+    const killjoySound = new Audio('voicelines/killjoy.mp3');
+    killjoySound.play();
+});
+
+const sova = document.querySelector('.sova');
+sova.addEventListener('click', function(){
+    const sovaSound = new Audio('voicelines/sova.mp3');
+    sovaSound.play();
+});
+
+const fade = document.querySelector('.fade');
+fade.addEventListener('click', function(){
+    const fadeSound = new Audio('voicelines/fade.mp3');
+    fadeSound.play();
+});
+
+const fade = document.querySelector('.fade');
+fade.addEventListener('click', function(){
+    const fadeSound = new Audio('voicelines/fade.mp3');
+    fadeSound.play();
+});
