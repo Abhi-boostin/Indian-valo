@@ -57,3 +57,15 @@ phoenix.addEventListener('click', function(){
     const phoenixSound = new Audio('voicelines/phoenix.mp3');
     phoenixSound.play();
 });
+
+const kayo = document.querySelector('.kayo');
+kayo.addEventListener('click', function(){
+    const kayoSound = new Audio('voicelines/kayo.mp3');
+    kayoSound.play();
+});
+
+const iso = document.querySelector('.iso');
+iso.addEventListener('click', function(){
+    const isoSound = new Audio('voicelines/iso.mp3');
+    isoSound.play();
+});

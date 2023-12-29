@@ -8,9 +8,10 @@ body{
     flex-wrap: wrap;
     gap: 40px;
     background-color: black;
+    
 }
 .reyna {
-    background-color: red;
+    background: linear-gradient(45deg, #C400FF, #000000, #DC143C);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -19,10 +20,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .raze {
-    background-color: blue;
+    background: linear-gradient(45deg, #FFC0CB, #9A54FF, #F0F8FF);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -31,10 +33,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .omen {
-    background-color: green;
+    background: linear-gradient(45deg, #000000, #6A287F, #D3D3D3);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -43,10 +46,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .sova {
-    background-color: yellow;
+    background: linear-gradient(45deg, #2E8B57, #D3D3D3, #FFFFFF);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -55,22 +59,24 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .chamber {
-    background-color: purple;
+    background: linear-gradient(45deg, #FFD700, #000000, #FFFFFF);
     height: 110px;
     width: 110px;
     align-items: center;
     justify-content: center;
     display: flex;
+   
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
 }
 
 .brimstone {
-    background-color: orange;
+    background: linear-gradient(45deg, #2E8B57, #C19A64, #FFFF00);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -79,10 +85,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .neon {
-    background-color: red;
+    background: linear-gradient(45deg, #5658FF, #FFFFFF, #ADD8E6);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -91,6 +98,7 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .iso {
@@ -103,10 +111,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .kayo {
-    background-color: green;
+    background: linear-gradient(45deg, #C0C0C0, #5658FF, #000000);;
     height: 110px;
     width: 110px;
     align-items: center;
@@ -115,10 +124,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .astra {
-    background-color: yellow;
+    background: linear-gradient(45deg, #9A54FF, #5658FF, #FF69B4);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -127,10 +137,12 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
+
 }
 
 .killjoy {
-    background-color: purple;
+    background: linear-gradient(45deg, #FFFF00, #FFA500, #FFFFFF);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -139,10 +151,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .cypher {
-    background-color: orange;
+    background: linear-gradient(45deg, #000000, #352583, #00FFFF);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -151,10 +164,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .breach {
-    background-color: red;
+    background: linear-gradient(45deg, #FFA500, #C40000, #D3D3D3);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -163,10 +177,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .harbor {
-    background-color: blue;
+    background: linear-gradient(45deg, #00FFFF, #178597, #C2B280);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -175,10 +190,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .viper {
-    background-color: green;
+    background: linear-gradient(45deg, #40F100, #9A54FF, #000000);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -187,11 +203,12 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 /* Styles for .sova */
 .sage {
-    background-color: yellow;
+    background: linear-gradient(45deg, #FFFFFF, #2E8B57, #FFD700);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -200,10 +217,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .yoru {
-    background-color: purple;
+    background: linear-gradient(45deg, #000080, #000000, #A9A9A9);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -212,10 +230,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .skye {
-    background-color: orange;
+    background: linear-gradient(45deg, #228B22, #A52A2A, #F5F5DC);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -224,10 +243,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .gekko {
-    background-color: red;
+     background: linear-gradient(45deg, #33FF00, #000000, #6A287F);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -236,10 +256,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .phoenix {
-    background-color: blue;
+    background: linear-gradient(45deg, #FF4500, #FFA500, #FFFF00);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -248,10 +269,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .deadlock {
-    background-color: green;
+    background: linear-gradient(45deg, #808080, #2E8B57, #FFA500);;
     height: 110px;
     width: 110px;
     align-items: center;
@@ -260,10 +282,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
 }
 
 .jett {
-    background-color: yellow;
+    background: linear-gradient(45deg, #5658FF, #FFFFFF, #D3D3D3);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -271,11 +294,12 @@ body{
     display: flex;
     border-radius: 50%;
     overflow: hidden;
-    margin: 10px;
+    margin: 10px; 
+   
 }
 
 .fade {
-    background-color: purple;
+    background: linear-gradient(45deg, #000000, #352583, #A9A9A9);
     height: 110px;
     width: 110px;
     align-items: center;
@@ -284,4 +308,10 @@ body{
     border-radius: 50%;
     overflow: hidden;
     margin: 10px;
+   
+}
+.list{
+    font-size: 20px;
+    font-family: fantasy;
+    color: white;
 }
