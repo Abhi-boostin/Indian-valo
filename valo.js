@@ -94,8 +94,8 @@ fade.addEventListener('click', function(){
     fadeSound.play();
 });
 
-const fade = document.querySelector('.fade');
-fade.addEventListener('click', function(){
-    const fadeSound = new Audio('voicelines/fade.mp3');
-    fadeSound.play();
+const raze = document.querySelector('.raze');
+raze.addEventListener('click', function(){
+    const razeSound = new Audio('voicelines/raze.mp3');
+    razeSound.play();
 });
